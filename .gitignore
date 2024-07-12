@@ -1,0 +1,30 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.vs/
+
+# Rider project files
+.idea/
+
+# Visual Studio Code files
+.vscode/
+
+# Visual Studio temporary files
+*.ncrunch*
+*.ncrunchproject
+
+# Azure Web App publish folder
+wwwroot/
+
+# Logs
+logs/
+*.log
+
+# NuGet Packages
+*.nupkg
+**/packages/*
